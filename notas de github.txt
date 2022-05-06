@@ -5,16 +5,10 @@ git checkout -b "nombre" (creando rama)
 git branch (para mirar las ramas)
 git pull origin main (actualiza los cambios de otros usuarios en github)
 git log (nos permite mirar los commit que hemos realizado )
-
 AGREGANDO CONTENIDO PARA PROBAR LOS PULL AND PULLREQUEST 
-
 Marcos Antonio Muñoz Gonzalez
 +569411690799
-
-<<<<<<< HEAD
 AJJAJJAJAJAAAJJAJA
-
-=======
 git merge ramab (en la rama main ejecutamos este codigo para actualizar los datos con los de la ramab)
->>>>>>> f8be0147ab20ca2864e6f5ab1b81c530c56bb2df
+
 
