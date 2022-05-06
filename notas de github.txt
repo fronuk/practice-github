@@ -1,5 +1,9 @@
+primero hacemos un fork del repositorio a trabajar
+y es necesario hacer un fetch upstream de nuestro repositorio fork para actualizar 
+con los datos del repositorio main
 git checkout -n "nombre" (creando rama)
 git branch (para mirar las ramas)
 git pull origin main (actualiza los cambios de otros usuarios en github)
 git log (nos permite mirar los commit que hemos realizado )
+
 
