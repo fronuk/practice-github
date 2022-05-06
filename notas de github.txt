@@ -10,6 +10,10 @@ AGREGANDO CONTENIDO PARA PROBAR LOS PULL AND PULLREQUEST
 
 Marcos Antonio Muñoz Gonzalez
 
+<<<<<<< HEAD
 AJJAJJAJAJAAAJJAJA
 
+=======
+git merge ramab (en la rama main ejecutamos este codigo para actualizar los datos con los de la ramab)
+>>>>>>> f8be0147ab20ca2864e6f5ab1b81c530c56bb2df
 
