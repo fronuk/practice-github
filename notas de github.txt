@@ -9,6 +9,7 @@ git log (nos permite mirar los commit que hemos realizado )
 AGREGANDO CONTENIDO PARA PROBAR LOS PULL AND PULLREQUEST 
 
 Marcos Antonio Muñoz Gonzalez
++569411690799
 
 <<<<<<< HEAD
 AJJAJJAJAJAAAJJAJA
