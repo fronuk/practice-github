@@ -1,3 +1,0 @@
-git checkout -n "nombre" (creando rama)
-git branch (para mirar las ramas)
-

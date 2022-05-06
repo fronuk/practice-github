@@ -1,0 +1,5 @@
+git checkout -n "nombre" (creando rama)
+git branch (para mirar las ramas)
+git pull origin main (actualiza los cambios de otros usuarios en github)
+git log (nos permite mirar los commit que hemos realizado )
+
